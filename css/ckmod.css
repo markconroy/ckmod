@@ -26,7 +26,6 @@
 
 .form-type-textarea .cke_editable {
   line-height: 1.5;
-  background: red !important;
 }
 
 .form-type-textarea .cke_toolgroup a.cke_button:last-child::after {
